@@ -1,0 +1,662 @@
+subject   gender     party   ideology 
+  1       female       dem          1    
+  2       female       dem          1    
+  3       female       dem          1    
+  4       female       dem          1    
+  5       female       dem          1    
+  6       female       dem          1    
+  7       female       dem          1    
+  8       female       dem          1    
+  9       female       dem          1    
+ 10       female       dem          1    
+ 11       female       dem          1    
+ 12       female       dem          1    
+ 13       female       dem          1    
+ 14       female       dem          1    
+ 15       female       dem          1    
+ 16       female       dem          1    
+ 17       female       dem          1    
+ 18       female       dem          1    
+ 19       female       dem          1    
+ 20       female       dem          1    
+ 21       female       dem          1    
+ 22       female       dem          1    
+ 23       female       dem          1    
+ 24       female       dem          1    
+ 25       female       dem          1    
+ 26       female       dem          2    
+ 27       female       dem          2    
+ 28       female       dem          2    
+ 29       female       dem          2    
+ 30       female       dem          2    
+ 31       female       dem          2    
+ 32       female       dem          2    
+ 33       female       dem          2    
+ 34       female       dem          2    
+ 35       female       dem          2    
+ 36       female       dem          2    
+ 37       female       dem          2    
+ 38       female       dem          2    
+ 39       female       dem          2    
+ 40       female       dem          2    
+ 41       female       dem          2    
+ 42       female       dem          2    
+ 43       female       dem          2    
+ 44       female       dem          2    
+ 45       female       dem          2    
+ 46       female       dem          2    
+ 47       female       dem          2    
+ 48       female       dem          2    
+ 49       female       dem          2    
+ 50       female       dem          2    
+ 51       female       dem          2    
+ 52       female       dem          2    
+ 53       female       dem          2    
+ 54       female       dem          2    
+ 55       female       dem          2    
+ 56       female       dem          2    
+ 57       female       dem          2    
+ 58       female       dem          2    
+ 59       female       dem          2    
+ 60       female       dem          2    
+ 61       female       dem          2    
+ 62       female       dem          2    
+ 63       female       dem          2    
+ 64       female       dem          2    
+ 65       female       dem          2    
+ 66       female       dem          2    
+ 67       female       dem          2    
+ 68       female       dem          2    
+ 69       female       dem          2    
+ 70       female       dem          2    
+ 71       female       dem          2    
+ 72       female       dem          2    
+ 73       female       dem          2    
+ 74       female       dem          2    
+ 75       female       dem          2    
+ 76       female       dem          2    
+ 77       female       dem          2    
+ 78       female       dem          2    
+ 79       female       dem          2    
+ 80       female       dem          2    
+ 81       female       dem          2    
+ 82       female       dem          2    
+ 83       female       dem          2    
+ 84       female       dem          2    
+ 85       female       dem          2    
+ 86       female       dem          2    
+ 87       female       dem          2    
+ 88       female       dem          2    
+ 89       female       dem          2    
+ 90       female       dem          2    
+ 91       female       dem          2    
+ 92       female       dem          2    
+ 93       female       dem          2    
+ 94       female       dem          2    
+ 95       female       dem          2    
+ 96       female       dem          2    
+ 97       female       dem          2    
+ 98       female       dem          2    
+ 99       female       dem          2    
+100       female       dem          2    
+101       female       dem          2    
+102       female       dem          2    
+103       female       dem          2    
+104       female       dem          2    
+105       female       dem          2    
+106       female       dem          2    
+107       female       dem          2    
+108       female       dem          2    
+109       female       dem          2    
+110       female       dem          2    
+111       female       dem          2    
+112       female       dem          2    
+113       female       dem          2    
+114       female       dem          2    
+115       female       dem          2    
+116       female       dem          2    
+117       female       dem          2    
+118       female       dem          2    
+119       female       dem          2    
+120       female       dem          2    
+121       female       dem          2    
+122       female       dem          2    
+123       female       dem          2    
+124       female       dem          2    
+125       female       dem          2    
+126       female       dem          2    
+127       female       dem          2    
+128       female       dem          2    
+129       female       dem          2    
+130       female       dem          2    
+131       female       dem          3    
+132       female       dem          3    
+133       female       dem          3    
+134       female       dem          3    
+135       female       dem          3    
+136       female       dem          3    
+137       female       dem          3    
+138       female       dem          3    
+139       female       dem          3    
+140       female       dem          3    
+141       female       dem          3    
+142       female       dem          3    
+143       female       dem          3    
+144       female       dem          3    
+145       female       dem          3    
+146       female       dem          3    
+147       female       dem          3    
+148       female       dem          3    
+149       female       dem          3    
+150       female       dem          3    
+151       female       dem          3    
+152       female       dem          3    
+153       female       dem          3    
+154       female       dem          3    
+155       female       dem          3    
+156       female       dem          3    
+157       female       dem          3    
+158       female       dem          3    
+159       female       dem          3    
+160       female       dem          3    
+161       female       dem          3    
+162       female       dem          3    
+163       female       dem          3    
+164       female       dem          3    
+165       female       dem          3    
+166       female       dem          3    
+167       female       dem          3    
+168       female       dem          3    
+169       female       dem          3    
+170       female       dem          3    
+171       female       dem          3    
+172       female       dem          3    
+173       female       dem          3    
+174       female       dem          3    
+175       female       dem          3    
+176       female       dem          3    
+177       female       dem          3    
+178       female       dem          3    
+179       female       dem          3    
+180       female       dem          3    
+181       female       dem          3    
+182       female       dem          3    
+183       female       dem          3    
+184       female       dem          3    
+185       female       dem          3    
+186       female       dem          3    
+187       female       dem          3    
+188       female       dem          3    
+189       female       dem          3    
+190       female       dem          3    
+191       female       dem          3    
+192       female       dem          3    
+193       female       dem          3    
+194       female       dem          3    
+195       female       dem          3    
+196       female       dem          3    
+197       female       dem          3    
+198       female       dem          3    
+199       female       dem          3    
+200       female       dem          3    
+201       female       dem          3    
+202       female       dem          3    
+203       female       dem          3    
+204       female       dem          3    
+205       female       dem          3    
+206       female       dem          3    
+207       female       dem          3    
+208       female       dem          3    
+209       female       dem          3    
+210       female       dem          3    
+211       female       dem          3    
+212       female       dem          3    
+213       female       dem          3    
+214       female       dem          3    
+215       female       dem          3    
+216       female       dem          3    
+217       female       dem          4    
+218       female       dem          4    
+219       female       dem          4    
+220       female       dem          4    
+221       female       dem          4    
+222       female       dem          4    
+223       female       dem          4    
+224       female       dem          4    
+225       female       dem          4    
+226       female       dem          4    
+227       female       dem          4    
+228       female       dem          4    
+229       female       dem          4    
+230       female       dem          4    
+231       female       dem          4    
+232       female       dem          4    
+233       female       dem          4    
+234       female       dem          4    
+235       female       dem          4    
+236       female       dem          4    
+237       female       dem          4    
+238       female       dem          4    
+239       female       dem          4    
+240       female       dem          4    
+241       female       dem          4    
+242       female       dem          4    
+243       female       dem          4    
+244       female       dem          4    
+245       female       dem          5    
+246       female       dem          5    
+247       female       dem          5    
+248       female       dem          5    
+249       female     repub          2    
+250       female     repub          2    
+251       female     repub          2    
+252       female     repub          2    
+253       female     repub          2    
+254       female     repub          3    
+255       female     repub          3    
+256       female     repub          3    
+257       female     repub          3    
+258       female     repub          3    
+259       female     repub          3    
+260       female     repub          3    
+261       female     repub          3    
+262       female     repub          3    
+263       female     repub          3    
+264       female     repub          3    
+265       female     repub          3    
+266       female     repub          3    
+267       female     repub          3    
+268       female     repub          3    
+269       female     repub          4    
+270       female     repub          4    
+271       female     repub          4    
+272       female     repub          4    
+273       female     repub          4    
+274       female     repub          4    
+275       female     repub          4    
+276       female     repub          4    
+277       female     repub          4    
+278       female     repub          4    
+279       female     repub          4    
+280       female     repub          4    
+281       female     repub          4    
+282       female     repub          4    
+283       female     repub          4    
+284       female     repub          4    
+285       female     repub          4    
+286       female     repub          4    
+287       female     repub          4    
+288       female     repub          4    
+289       female     repub          4    
+290       female     repub          4    
+291       female     repub          4    
+292       female     repub          4    
+293       female     repub          4    
+294       female     repub          4    
+295       female     repub          4    
+296       female     repub          4    
+297       female     repub          4    
+298       female     repub          4    
+299       female     repub          4    
+300       female     repub          4    
+301       female     repub          4    
+302       female     repub          4    
+303       female     repub          4    
+304       female     repub          4    
+305       female     repub          4    
+306       female     repub          4    
+307       female     repub          4    
+308       female     repub          4    
+309       female     repub          4    
+310       female     repub          4    
+311       female     repub          4    
+312       female     repub          4    
+313       female     repub          4    
+314       female     repub          4    
+315       female     repub          4    
+316       female     repub          4    
+317       female     repub          4    
+318       female     repub          4    
+319       female     repub          4    
+320       female     repub          4    
+321       female     repub          4    
+322       female     repub          4    
+323       female     repub          4    
+324       female     repub          4    
+325       female     repub          4    
+326       female     repub          4    
+327       female     repub          4    
+328       female     repub          4    
+329       female     repub          4    
+330       female     repub          4    
+331       female     repub          4    
+332       female     repub          4    
+333       female     repub          4    
+334       female     repub          4    
+335       female     repub          4    
+336       female     repub          4    
+337       female     repub          4    
+338       female     repub          4    
+339       female     repub          4    
+340       female     repub          4    
+341       female     repub          4    
+342       female     repub          4    
+343       female     repub          4    
+344       female     repub          4    
+345       female     repub          4    
+346       female     repub          4    
+347       female     repub          4    
+348       female     repub          4    
+349       female     repub          4    
+350       female     repub          4    
+351       female     repub          4    
+352       female     repub          5    
+353       female     repub          5    
+354       female     repub          5    
+355       female     repub          5    
+356       female     repub          5    
+357       female     repub          5    
+358       female     repub          5    
+359       female     repub          5    
+360       female     repub          5    
+361       female     repub          5    
+362       female     repub          5    
+363       female     repub          5    
+364       female     repub          5    
+365       female     repub          5    
+366       female     repub          5    
+367       female     repub          5    
+368       female     repub          5    
+369       female     repub          5    
+370       female     repub          5    
+371       female     repub          5    
+372       female     repub          5    
+373       female     repub          5    
+374       female     repub          5    
+375       female     repub          5    
+376       female     repub          5    
+377       female     repub          5    
+378       female     repub          5    
+379       female     repub          5    
+380       female     repub          5    
+381       female     repub          5    
+382       female     repub          5    
+383       female     repub          5    
+384         male       dem          1    
+385         male       dem          1    
+386         male       dem          1    
+387         male       dem          1    
+388         male       dem          1    
+389         male       dem          1    
+390         male       dem          1    
+391         male       dem          1    
+392         male       dem          1    
+393         male       dem          1    
+394         male       dem          1    
+395         male       dem          1    
+396         male       dem          1    
+397         male       dem          1    
+398         male       dem          1    
+399         male       dem          1    
+400         male       dem          1    
+401         male       dem          1    
+402         male       dem          1    
+403         male       dem          1    
+404         male       dem          2    
+405         male       dem          2    
+406         male       dem          2    
+407         male       dem          2    
+408         male       dem          2    
+409         male       dem          2    
+410         male       dem          2    
+411         male       dem          2    
+412         male       dem          2    
+413         male       dem          2    
+414         male       dem          2    
+415         male       dem          2    
+416         male       dem          2    
+417         male       dem          2    
+418         male       dem          2    
+419         male       dem          2    
+420         male       dem          2    
+421         male       dem          2    
+422         male       dem          2    
+423         male       dem          2    
+424         male       dem          2    
+425         male       dem          2    
+426         male       dem          2    
+427         male       dem          2    
+428         male       dem          2    
+429         male       dem          2    
+430         male       dem          2    
+431         male       dem          2    
+432         male       dem          2    
+433         male       dem          2    
+434         male       dem          2    
+435         male       dem          2    
+436         male       dem          2    
+437         male       dem          2    
+438         male       dem          2    
+439         male       dem          2    
+440         male       dem          2    
+441         male       dem          2    
+442         male       dem          2    
+443         male       dem          2    
+444         male       dem          2    
+445         male       dem          2    
+446         male       dem          2    
+447         male       dem          2    
+448         male       dem          2    
+449         male       dem          2    
+450         male       dem          2    
+451         male       dem          2    
+452         male       dem          2    
+453         male       dem          2    
+454         male       dem          2    
+455         male       dem          2    
+456         male       dem          2    
+457         male       dem          2    
+458         male       dem          2    
+459         male       dem          2    
+460         male       dem          2    
+461         male       dem          2    
+462         male       dem          2    
+463         male       dem          2    
+464         male       dem          2    
+465         male       dem          2    
+466         male       dem          2    
+467         male       dem          2    
+468         male       dem          2    
+469         male       dem          2    
+470         male       dem          2    
+471         male       dem          2    
+472         male       dem          2    
+473         male       dem          2    
+474         male       dem          2    
+475         male       dem          2    
+476         male       dem          2    
+477         male       dem          3    
+478         male       dem          3    
+479         male       dem          3    
+480         male       dem          3    
+481         male       dem          3    
+482         male       dem          3    
+483         male       dem          3    
+484         male       dem          3    
+485         male       dem          3    
+486         male       dem          3    
+487         male       dem          3    
+488         male       dem          3    
+489         male       dem          3    
+490         male       dem          3    
+491         male       dem          3    
+492         male       dem          3    
+493         male       dem          3    
+494         male       dem          3    
+495         male       dem          3    
+496         male       dem          3    
+497         male       dem          3    
+498         male       dem          3    
+499         male       dem          3    
+500         male       dem          3    
+501         male       dem          3    
+502         male       dem          3    
+503         male       dem          3    
+504         male       dem          3    
+505         male       dem          3    
+506         male       dem          3    
+507         male       dem          3    
+508         male       dem          3    
+509         male       dem          3    
+510         male       dem          3    
+511         male       dem          3    
+512         male       dem          3    
+513         male       dem          3    
+514         male       dem          3    
+515         male       dem          3    
+516         male       dem          3    
+517         male       dem          3    
+518         male       dem          3    
+519         male       dem          3    
+520         male       dem          4    
+521         male       dem          4    
+522         male       dem          4    
+523         male       dem          4    
+524         male       dem          4    
+525         male       dem          4    
+526         male       dem          4    
+527         male       dem          4    
+528         male       dem          4    
+529         male       dem          4    
+530         male       dem          4    
+531         male       dem          4    
+532         male       dem          4    
+533         male       dem          4    
+534         male       dem          4    
+535         male       dem          4    
+536         male       dem          4    
+537         male       dem          4    
+538         male       dem          4    
+539         male       dem          4    
+540         male       dem          5    
+541         male       dem          5    
+542         male       dem          5    
+543         male      repub          2    
+544         male      repub          3    
+545         male      repub          3    
+546         male      repub          3    
+547         male      repub          3    
+548         male      repub          3    
+549         male      repub          3    
+550         male      repub          3    
+551         male      repub          3    
+552         male      repub          3    
+553         male      repub          3    
+554         male      repub          3    
+555         male      repub          3    
+556         male      repub          3    
+557         male      repub          3    
+558         male      repub          4    
+559         male      repub          4    
+560         male      repub          4    
+561         male      repub          4    
+562         male      repub          4    
+563         male      repub          4    
+564         male      repub          4    
+565         male      repub          4    
+566         male      repub          4    
+567         male      repub          4    
+568         male      repub          4    
+569         male      repub          4    
+570         male      repub          4    
+571         male      repub          4    
+572         male      repub          4    
+573         male      repub          4    
+574         male      repub          4    
+575         male      repub          4    
+576         male      repub          4    
+577         male      repub          4    
+578         male      repub          4    
+579         male      repub          4    
+580         male      repub          4    
+581         male      repub          4    
+582         male      repub          4    
+583         male      repub          4    
+584         male      repub          4    
+585         male      repub          4    
+586         male      repub          4    
+587         male      repub          4    
+588         male      repub          4    
+589         male      repub          4    
+590         male      repub          4    
+591         male      repub          4    
+592         male      repub          4    
+593         male      repub          4    
+594         male      repub          4    
+595         male      repub          4    
+596         male      repub          4    
+597         male      repub          4    
+598         male      repub          4    
+599         male      repub          4    
+600         male      repub          4    
+601         male      repub          4    
+602         male      repub          4    
+603         male      repub          4    
+604         male      repub          4    
+605         male      repub          4    
+606         male      repub          4    
+607         male      repub          4    
+608         male      repub          4    
+609         male      repub          4    
+610         male      repub          4    
+611         male      repub          4    
+612         male      repub          4    
+613         male      repub          4    
+614         male      repub          4    
+615         male      repub          4    
+616         male      repub          4    
+617         male      repub          4    
+618         male      repub          4    
+619         male      repub          4    
+620         male      repub          4    
+621         male      repub          4    
+622         male      repub          4    
+623         male      repub          4    
+624         male      repub          4    
+625         male      repub          4    
+626         male      repub          4    
+627         male      repub          4    
+628         male      repub          4    
+629         male      repub          4    
+630         male      repub          5    
+631         male      repub          5    
+632         male      repub          5    
+633         male      repub          5    
+634         male      repub          5    
+635         male      repub          5    
+636         male      repub          5    
+637         male      repub          5    
+638         male      repub          5    
+639         male      repub          5    
+640         male      repub          5    
+641         male      repub          5    
+642         male      repub          5    
+643         male      repub          5    
+644         male      repub          5    
+645         male      repub          5    
+646         male      repub          5    
+647         male      repub          5    
+648         male      repub          5    
+649         male      repub          5    
+650         male      repub          5    
+651         male      repub          5    
+652         male      repub          5    
+653         male      repub          5    
+654         male      repub          5    
+655         male      repub          5    
+656         male      repub          5    
+657         male      repub          5    
+658         male      repub          5    
+659         male      repub          5    
+660         male      repub          5    
+661         male      repub          5    

@@ -1,0 +1,9 @@
+ treatment  initial  follow1  follow2  follow3  follow4  
+         1       10        7        4        1        0
+         1       25       11        5        2        2
+         1       45       13       23        3        1
+         1       75        9       17       13        8
+         0       10        7        4        2        1
+         0       25       14        5        1        0
+         0       45        6        9       18        2
+         0       75        4       11       14       22 

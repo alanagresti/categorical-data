@@ -1,0 +1,9 @@
+   D     V   P   count  
+ white white yes  53 
+ white white no  414 
+ black white yes  11 
+ black white no   37 
+ white black yes   0 
+ white black no   16 
+ black black yes   4 
+ black black no  139 

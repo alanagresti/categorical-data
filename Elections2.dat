@@ -1,0 +1,15 @@
+number state e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 
+ 1  Arizona 0 0 0 0 1 0 0 0 0 0  
+ 2  California 0 0 0 1 1 1 1 1 1 1  
+ 3  Colorado 0 0 0 1 0 0 0 1 1 1  
+ 4  Florida 0 0 0 0 1 0 0 1 1 0  
+ 5  Illinois 0 0 0 1 1 1 1 1 1 1  
+ 6  Massachusetts 0 0 1 1 1 1 1 1 1 1  
+ 7  Minnesota 1 1 1 1 1 1 1 1 1 1  
+ 8  Missouro 0 0 0 1 1 0 0 0 0 0  
+ 9  NewMexico 0 0 0 1 1 1 0 1 1 1  
+10  NewYork 0 0 1 1 1 1 1 1 1 1  
+11  Ohio 0 0 0 1 1 0 0 1 1 0  
+12  Texas 0 0 0 0 0 0 0 0 0 0  
+13  Virginia 0 0 0 0 0 0 0 1 1 1  
+14  Wyoming 0 0 0 0 0 0 0 0 0 0  

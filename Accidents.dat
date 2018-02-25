@@ -1,0 +1,9 @@
+gender  location  seatbelt     y1    y2    y3    y4    y5 
+ F      urban      no        7287   175   720    91    10    
+ F      urban      yes      11587   126   577    48     8 
+ F      rural      no        3246    73   710   159    31    
+ F      rural      yes       6134    94   564    82    17  
+ M      urban      no       10381   136   566    96    14   
+ M      urban      yes      10969    83   259    37     1 
+ M      rural      no        6123   141   710   188    45   
+ M      rural      yes       6693    74   353    74    12     

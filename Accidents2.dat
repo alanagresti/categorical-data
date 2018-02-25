@@ -1,0 +1,17 @@
+gender      location  seatbelt  injury  count 
+ female      rural      no        no     3246
+ female      rural      no       yes      973 
+ female      rural      yes       no     6134
+ female      rural      yes      yes      757 
+ female      urban      no        no     7287
+ female      urban      no       yes      996
+ female      urban      yes       no    11587
+ female      urban      yes      yes      759 
+ male        rural      no        no     6123
+ male        rural      no       yes     1084 
+ male        rural      yes       no     6693
+ male        rural      yes      yes      513 
+ male        urban      no        no    10381
+ male        urban      no       yes      812 
+ male        urban      yes       no    10969
+ male        urban      yes      yes      380 

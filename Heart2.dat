@@ -1,0 +1,2485 @@
+ subject  snoring   x     y 
+   1        never   0     1
+   2        never   0     1
+   3        never   0     1
+   4        never   0     1
+   5        never   0     1
+   6        never   0     1
+   7        never   0     1
+   8        never   0     1
+   9        never   0     1
+  10        never   0     1
+  11        never   0     1
+  12        never   0     1
+  13        never   0     1
+  14        never   0     1
+  15        never   0     1
+  16        never   0     1
+  17        never   0     1
+  18        never   0     1
+  19        never   0     1
+  20        never   0     1
+  21        never   0     1
+  22        never   0     1
+  23        never   0     1
+  24        never   0     1
+  25        never   0     0
+  26        never   0     0
+  27        never   0     0
+  28        never   0     0
+  29        never   0     0
+  30        never   0     0
+  31        never   0     0
+  32        never   0     0
+  33        never   0     0
+  34        never   0     0
+  35        never   0     0
+  36        never   0     0
+  37        never   0     0
+  38        never   0     0
+  39        never   0     0
+  40        never   0     0
+  41        never   0     0
+  42        never   0     0
+  43        never   0     0
+  44        never   0     0
+  45        never   0     0
+  46        never   0     0
+  47        never   0     0
+  48        never   0     0
+  49        never   0     0
+  50        never   0     0
+  51        never   0     0
+  52        never   0     0
+  53        never   0     0
+  54        never   0     0
+  55        never   0     0
+  56        never   0     0
+  57        never   0     0
+  58        never   0     0
+  59        never   0     0
+  60        never   0     0
+  61        never   0     0
+  62        never   0     0
+  63        never   0     0
+  64        never   0     0
+  65        never   0     0
+  66        never   0     0
+  67        never   0     0
+  68        never   0     0
+  69        never   0     0
+  70        never   0     0
+  71        never   0     0
+  72        never   0     0
+  73        never   0     0
+  74        never   0     0
+  75        never   0     0
+  76        never   0     0
+  77        never   0     0
+  78        never   0     0
+  79        never   0     0
+  80        never   0     0
+  81        never   0     0
+  82        never   0     0
+  83        never   0     0
+  84        never   0     0
+  85        never   0     0
+  86        never   0     0
+  87        never   0     0
+  88        never   0     0
+  89        never   0     0
+  90        never   0     0
+  91        never   0     0
+  92        never   0     0
+  93        never   0     0
+  94        never   0     0
+  95        never   0     0
+  96        never   0     0
+  97        never   0     0
+  98        never   0     0
+  99        never   0     0
+ 100        never   0     0
+ 101        never   0     0
+ 102        never   0     0
+ 103        never   0     0
+ 104        never   0     0
+ 105        never   0     0
+ 106        never   0     0
+ 107        never   0     0
+ 108        never   0     0
+ 109        never   0     0
+ 110        never   0     0
+ 111        never   0     0
+ 112        never   0     0
+ 113        never   0     0
+ 114        never   0     0
+ 115        never   0     0
+ 116        never   0     0
+ 117        never   0     0
+ 118        never   0     0
+ 119        never   0     0
+ 120        never   0     0
+ 121        never   0     0
+ 122        never   0     0
+ 123        never   0     0
+ 124        never   0     0
+ 125        never   0     0
+ 126        never   0     0
+ 127        never   0     0
+ 128        never   0     0
+ 129        never   0     0
+ 130        never   0     0
+ 131        never   0     0
+ 132        never   0     0
+ 133        never   0     0
+ 134        never   0     0
+ 135        never   0     0
+ 136        never   0     0
+ 137        never   0     0
+ 138        never   0     0
+ 139        never   0     0
+ 140        never   0     0
+ 141        never   0     0
+ 142        never   0     0
+ 143        never   0     0
+ 144        never   0     0
+ 145        never   0     0
+ 146        never   0     0
+ 147        never   0     0
+ 148        never   0     0
+ 149        never   0     0
+ 150        never   0     0
+ 151        never   0     0
+ 152        never   0     0
+ 153        never   0     0
+ 154        never   0     0
+ 155        never   0     0
+ 156        never   0     0
+ 157        never   0     0
+ 158        never   0     0
+ 159        never   0     0
+ 160        never   0     0
+ 161        never   0     0
+ 162        never   0     0
+ 163        never   0     0
+ 164        never   0     0
+ 165        never   0     0
+ 166        never   0     0
+ 167        never   0     0
+ 168        never   0     0
+ 169        never   0     0
+ 170        never   0     0
+ 171        never   0     0
+ 172        never   0     0
+ 173        never   0     0
+ 174        never   0     0
+ 175        never   0     0
+ 176        never   0     0
+ 177        never   0     0
+ 178        never   0     0
+ 179        never   0     0
+ 180        never   0     0
+ 181        never   0     0
+ 182        never   0     0
+ 183        never   0     0
+ 184        never   0     0
+ 185        never   0     0
+ 186        never   0     0
+ 187        never   0     0
+ 188        never   0     0
+ 189        never   0     0
+ 190        never   0     0
+ 191        never   0     0
+ 192        never   0     0
+ 193        never   0     0
+ 194        never   0     0
+ 195        never   0     0
+ 196        never   0     0
+ 197        never   0     0
+ 198        never   0     0
+ 199        never   0     0
+ 200        never   0     0
+ 201        never   0     0
+ 202        never   0     0
+ 203        never   0     0
+ 204        never   0     0
+ 205        never   0     0
+ 206        never   0     0
+ 207        never   0     0
+ 208        never   0     0
+ 209        never   0     0
+ 210        never   0     0
+ 211        never   0     0
+ 212        never   0     0
+ 213        never   0     0
+ 214        never   0     0
+ 215        never   0     0
+ 216        never   0     0
+ 217        never   0     0
+ 218        never   0     0
+ 219        never   0     0
+ 220        never   0     0
+ 221        never   0     0
+ 222        never   0     0
+ 223        never   0     0
+ 224        never   0     0
+ 225        never   0     0
+ 226        never   0     0
+ 227        never   0     0
+ 228        never   0     0
+ 229        never   0     0
+ 230        never   0     0
+ 231        never   0     0
+ 232        never   0     0
+ 233        never   0     0
+ 234        never   0     0
+ 235        never   0     0
+ 236        never   0     0
+ 237        never   0     0
+ 238        never   0     0
+ 239        never   0     0
+ 240        never   0     0
+ 241        never   0     0
+ 242        never   0     0
+ 243        never   0     0
+ 244        never   0     0
+ 245        never   0     0
+ 246        never   0     0
+ 247        never   0     0
+ 248        never   0     0
+ 249        never   0     0
+ 250        never   0     0
+ 251        never   0     0
+ 252        never   0     0
+ 253        never   0     0
+ 254        never   0     0
+ 255        never   0     0
+ 256        never   0     0
+ 257        never   0     0
+ 258        never   0     0
+ 259        never   0     0
+ 260        never   0     0
+ 261        never   0     0
+ 262        never   0     0
+ 263        never   0     0
+ 264        never   0     0
+ 265        never   0     0
+ 266        never   0     0
+ 267        never   0     0
+ 268        never   0     0
+ 269        never   0     0
+ 270        never   0     0
+ 271        never   0     0
+ 272        never   0     0
+ 273        never   0     0
+ 274        never   0     0
+ 275        never   0     0
+ 276        never   0     0
+ 277        never   0     0
+ 278        never   0     0
+ 279        never   0     0
+ 280        never   0     0
+ 281        never   0     0
+ 282        never   0     0
+ 283        never   0     0
+ 284        never   0     0
+ 285        never   0     0
+ 286        never   0     0
+ 287        never   0     0
+ 288        never   0     0
+ 289        never   0     0
+ 290        never   0     0
+ 291        never   0     0
+ 292        never   0     0
+ 293        never   0     0
+ 294        never   0     0
+ 295        never   0     0
+ 296        never   0     0
+ 297        never   0     0
+ 298        never   0     0
+ 299        never   0     0
+ 300        never   0     0
+ 301        never   0     0
+ 302        never   0     0
+ 303        never   0     0
+ 304        never   0     0
+ 305        never   0     0
+ 306        never   0     0
+ 307        never   0     0
+ 308        never   0     0
+ 309        never   0     0
+ 310        never   0     0
+ 311        never   0     0
+ 312        never   0     0
+ 313        never   0     0
+ 314        never   0     0
+ 315        never   0     0
+ 316        never   0     0
+ 317        never   0     0
+ 318        never   0     0
+ 319        never   0     0
+ 320        never   0     0
+ 321        never   0     0
+ 322        never   0     0
+ 323        never   0     0
+ 324        never   0     0
+ 325        never   0     0
+ 326        never   0     0
+ 327        never   0     0
+ 328        never   0     0
+ 329        never   0     0
+ 330        never   0     0
+ 331        never   0     0
+ 332        never   0     0
+ 333        never   0     0
+ 334        never   0     0
+ 335        never   0     0
+ 336        never   0     0
+ 337        never   0     0
+ 338        never   0     0
+ 339        never   0     0
+ 340        never   0     0
+ 341        never   0     0
+ 342        never   0     0
+ 343        never   0     0
+ 344        never   0     0
+ 345        never   0     0
+ 346        never   0     0
+ 347        never   0     0
+ 348        never   0     0
+ 349        never   0     0
+ 350        never   0     0
+ 351        never   0     0
+ 352        never   0     0
+ 353        never   0     0
+ 354        never   0     0
+ 355        never   0     0
+ 356        never   0     0
+ 357        never   0     0
+ 358        never   0     0
+ 359        never   0     0
+ 360        never   0     0
+ 361        never   0     0
+ 362        never   0     0
+ 363        never   0     0
+ 364        never   0     0
+ 365        never   0     0
+ 366        never   0     0
+ 367        never   0     0
+ 368        never   0     0
+ 369        never   0     0
+ 370        never   0     0
+ 371        never   0     0
+ 372        never   0     0
+ 373        never   0     0
+ 374        never   0     0
+ 375        never   0     0
+ 376        never   0     0
+ 377        never   0     0
+ 378        never   0     0
+ 379        never   0     0
+ 380        never   0     0
+ 381        never   0     0
+ 382        never   0     0
+ 383        never   0     0
+ 384        never   0     0
+ 385        never   0     0
+ 386        never   0     0
+ 387        never   0     0
+ 388        never   0     0
+ 389        never   0     0
+ 390        never   0     0
+ 391        never   0     0
+ 392        never   0     0
+ 393        never   0     0
+ 394        never   0     0
+ 395        never   0     0
+ 396        never   0     0
+ 397        never   0     0
+ 398        never   0     0
+ 399        never   0     0
+ 400        never   0     0
+ 401        never   0     0
+ 402        never   0     0
+ 403        never   0     0
+ 404        never   0     0
+ 405        never   0     0
+ 406        never   0     0
+ 407        never   0     0
+ 408        never   0     0
+ 409        never   0     0
+ 410        never   0     0
+ 411        never   0     0
+ 412        never   0     0
+ 413        never   0     0
+ 414        never   0     0
+ 415        never   0     0
+ 416        never   0     0
+ 417        never   0     0
+ 418        never   0     0
+ 419        never   0     0
+ 420        never   0     0
+ 421        never   0     0
+ 422        never   0     0
+ 423        never   0     0
+ 424        never   0     0
+ 425        never   0     0
+ 426        never   0     0
+ 427        never   0     0
+ 428        never   0     0
+ 429        never   0     0
+ 430        never   0     0
+ 431        never   0     0
+ 432        never   0     0
+ 433        never   0     0
+ 434        never   0     0
+ 435        never   0     0
+ 436        never   0     0
+ 437        never   0     0
+ 438        never   0     0
+ 439        never   0     0
+ 440        never   0     0
+ 441        never   0     0
+ 442        never   0     0
+ 443        never   0     0
+ 444        never   0     0
+ 445        never   0     0
+ 446        never   0     0
+ 447        never   0     0
+ 448        never   0     0
+ 449        never   0     0
+ 450        never   0     0
+ 451        never   0     0
+ 452        never   0     0
+ 453        never   0     0
+ 454        never   0     0
+ 455        never   0     0
+ 456        never   0     0
+ 457        never   0     0
+ 458        never   0     0
+ 459        never   0     0
+ 460        never   0     0
+ 461        never   0     0
+ 462        never   0     0
+ 463        never   0     0
+ 464        never   0     0
+ 465        never   0     0
+ 466        never   0     0
+ 467        never   0     0
+ 468        never   0     0
+ 469        never   0     0
+ 470        never   0     0
+ 471        never   0     0
+ 472        never   0     0
+ 473        never   0     0
+ 474        never   0     0
+ 475        never   0     0
+ 476        never   0     0
+ 477        never   0     0
+ 478        never   0     0
+ 479        never   0     0
+ 480        never   0     0
+ 481        never   0     0
+ 482        never   0     0
+ 483        never   0     0
+ 484        never   0     0
+ 485        never   0     0
+ 486        never   0     0
+ 487        never   0     0
+ 488        never   0     0
+ 489        never   0     0
+ 490        never   0     0
+ 491        never   0     0
+ 492        never   0     0
+ 493        never   0     0
+ 494        never   0     0
+ 495        never   0     0
+ 496        never   0     0
+ 497        never   0     0
+ 498        never   0     0
+ 499        never   0     0
+ 500        never   0     0
+ 501        never   0     0
+ 502        never   0     0
+ 503        never   0     0
+ 504        never   0     0
+ 505        never   0     0
+ 506        never   0     0
+ 507        never   0     0
+ 508        never   0     0
+ 509        never   0     0
+ 510        never   0     0
+ 511        never   0     0
+ 512        never   0     0
+ 513        never   0     0
+ 514        never   0     0
+ 515        never   0     0
+ 516        never   0     0
+ 517        never   0     0
+ 518        never   0     0
+ 519        never   0     0
+ 520        never   0     0
+ 521        never   0     0
+ 522        never   0     0
+ 523        never   0     0
+ 524        never   0     0
+ 525        never   0     0
+ 526        never   0     0
+ 527        never   0     0
+ 528        never   0     0
+ 529        never   0     0
+ 530        never   0     0
+ 531        never   0     0
+ 532        never   0     0
+ 533        never   0     0
+ 534        never   0     0
+ 535        never   0     0
+ 536        never   0     0
+ 537        never   0     0
+ 538        never   0     0
+ 539        never   0     0
+ 540        never   0     0
+ 541        never   0     0
+ 542        never   0     0
+ 543        never   0     0
+ 544        never   0     0
+ 545        never   0     0
+ 546        never   0     0
+ 547        never   0     0
+ 548        never   0     0
+ 549        never   0     0
+ 550        never   0     0
+ 551        never   0     0
+ 552        never   0     0
+ 553        never   0     0
+ 554        never   0     0
+ 555        never   0     0
+ 556        never   0     0
+ 557        never   0     0
+ 558        never   0     0
+ 559        never   0     0
+ 560        never   0     0
+ 561        never   0     0
+ 562        never   0     0
+ 563        never   0     0
+ 564        never   0     0
+ 565        never   0     0
+ 566        never   0     0
+ 567        never   0     0
+ 568        never   0     0
+ 569        never   0     0
+ 570        never   0     0
+ 571        never   0     0
+ 572        never   0     0
+ 573        never   0     0
+ 574        never   0     0
+ 575        never   0     0
+ 576        never   0     0
+ 577        never   0     0
+ 578        never   0     0
+ 579        never   0     0
+ 580        never   0     0
+ 581        never   0     0
+ 582        never   0     0
+ 583        never   0     0
+ 584        never   0     0
+ 585        never   0     0
+ 586        never   0     0
+ 587        never   0     0
+ 588        never   0     0
+ 589        never   0     0
+ 590        never   0     0
+ 591        never   0     0
+ 592        never   0     0
+ 593        never   0     0
+ 594        never   0     0
+ 595        never   0     0
+ 596        never   0     0
+ 597        never   0     0
+ 598        never   0     0
+ 599        never   0     0
+ 600        never   0     0
+ 601        never   0     0
+ 602        never   0     0
+ 603        never   0     0
+ 604        never   0     0
+ 605        never   0     0
+ 606        never   0     0
+ 607        never   0     0
+ 608        never   0     0
+ 609        never   0     0
+ 610        never   0     0
+ 611        never   0     0
+ 612        never   0     0
+ 613        never   0     0
+ 614        never   0     0
+ 615        never   0     0
+ 616        never   0     0
+ 617        never   0     0
+ 618        never   0     0
+ 619        never   0     0
+ 620        never   0     0
+ 621        never   0     0
+ 622        never   0     0
+ 623        never   0     0
+ 624        never   0     0
+ 625        never   0     0
+ 626        never   0     0
+ 627        never   0     0
+ 628        never   0     0
+ 629        never   0     0
+ 630        never   0     0
+ 631        never   0     0
+ 632        never   0     0
+ 633        never   0     0
+ 634        never   0     0
+ 635        never   0     0
+ 636        never   0     0
+ 637        never   0     0
+ 638        never   0     0
+ 639        never   0     0
+ 640        never   0     0
+ 641        never   0     0
+ 642        never   0     0
+ 643        never   0     0
+ 644        never   0     0
+ 645        never   0     0
+ 646        never   0     0
+ 647        never   0     0
+ 648        never   0     0
+ 649        never   0     0
+ 650        never   0     0
+ 651        never   0     0
+ 652        never   0     0
+ 653        never   0     0
+ 654        never   0     0
+ 655        never   0     0
+ 656        never   0     0
+ 657        never   0     0
+ 658        never   0     0
+ 659        never   0     0
+ 660        never   0     0
+ 661        never   0     0
+ 662        never   0     0
+ 663        never   0     0
+ 664        never   0     0
+ 665        never   0     0
+ 666        never   0     0
+ 667        never   0     0
+ 668        never   0     0
+ 669        never   0     0
+ 670        never   0     0
+ 671        never   0     0
+ 672        never   0     0
+ 673        never   0     0
+ 674        never   0     0
+ 675        never   0     0
+ 676        never   0     0
+ 677        never   0     0
+ 678        never   0     0
+ 679        never   0     0
+ 680        never   0     0
+ 681        never   0     0
+ 682        never   0     0
+ 683        never   0     0
+ 684        never   0     0
+ 685        never   0     0
+ 686        never   0     0
+ 687        never   0     0
+ 688        never   0     0
+ 689        never   0     0
+ 690        never   0     0
+ 691        never   0     0
+ 692        never   0     0
+ 693        never   0     0
+ 694        never   0     0
+ 695        never   0     0
+ 696        never   0     0
+ 697        never   0     0
+ 698        never   0     0
+ 699        never   0     0
+ 700        never   0     0
+ 701        never   0     0
+ 702        never   0     0
+ 703        never   0     0
+ 704        never   0     0
+ 705        never   0     0
+ 706        never   0     0
+ 707        never   0     0
+ 708        never   0     0
+ 709        never   0     0
+ 710        never   0     0
+ 711        never   0     0
+ 712        never   0     0
+ 713        never   0     0
+ 714        never   0     0
+ 715        never   0     0
+ 716        never   0     0
+ 717        never   0     0
+ 718        never   0     0
+ 719        never   0     0
+ 720        never   0     0
+ 721        never   0     0
+ 722        never   0     0
+ 723        never   0     0
+ 724        never   0     0
+ 725        never   0     0
+ 726        never   0     0
+ 727        never   0     0
+ 728        never   0     0
+ 729        never   0     0
+ 730        never   0     0
+ 731        never   0     0
+ 732        never   0     0
+ 733        never   0     0
+ 734        never   0     0
+ 735        never   0     0
+ 736        never   0     0
+ 737        never   0     0
+ 738        never   0     0
+ 739        never   0     0
+ 740        never   0     0
+ 741        never   0     0
+ 742        never   0     0
+ 743        never   0     0
+ 744        never   0     0
+ 745        never   0     0
+ 746        never   0     0
+ 747        never   0     0
+ 748        never   0     0
+ 749        never   0     0
+ 750        never   0     0
+ 751        never   0     0
+ 752        never   0     0
+ 753        never   0     0
+ 754        never   0     0
+ 755        never   0     0
+ 756        never   0     0
+ 757        never   0     0
+ 758        never   0     0
+ 759        never   0     0
+ 760        never   0     0
+ 761        never   0     0
+ 762        never   0     0
+ 763        never   0     0
+ 764        never   0     0
+ 765        never   0     0
+ 766        never   0     0
+ 767        never   0     0
+ 768        never   0     0
+ 769        never   0     0
+ 770        never   0     0
+ 771        never   0     0
+ 772        never   0     0
+ 773        never   0     0
+ 774        never   0     0
+ 775        never   0     0
+ 776        never   0     0
+ 777        never   0     0
+ 778        never   0     0
+ 779        never   0     0
+ 780        never   0     0
+ 781        never   0     0
+ 782        never   0     0
+ 783        never   0     0
+ 784        never   0     0
+ 785        never   0     0
+ 786        never   0     0
+ 787        never   0     0
+ 788        never   0     0
+ 789        never   0     0
+ 790        never   0     0
+ 791        never   0     0
+ 792        never   0     0
+ 793        never   0     0
+ 794        never   0     0
+ 795        never   0     0
+ 796        never   0     0
+ 797        never   0     0
+ 798        never   0     0
+ 799        never   0     0
+ 800        never   0     0
+ 801        never   0     0
+ 802        never   0     0
+ 803        never   0     0
+ 804        never   0     0
+ 805        never   0     0
+ 806        never   0     0
+ 807        never   0     0
+ 808        never   0     0
+ 809        never   0     0
+ 810        never   0     0
+ 811        never   0     0
+ 812        never   0     0
+ 813        never   0     0
+ 814        never   0     0
+ 815        never   0     0
+ 816        never   0     0
+ 817        never   0     0
+ 818        never   0     0
+ 819        never   0     0
+ 820        never   0     0
+ 821        never   0     0
+ 822        never   0     0
+ 823        never   0     0
+ 824        never   0     0
+ 825        never   0     0
+ 826        never   0     0
+ 827        never   0     0
+ 828        never   0     0
+ 829        never   0     0
+ 830        never   0     0
+ 831        never   0     0
+ 832        never   0     0
+ 833        never   0     0
+ 834        never   0     0
+ 835        never   0     0
+ 836        never   0     0
+ 837        never   0     0
+ 838        never   0     0
+ 839        never   0     0
+ 840        never   0     0
+ 841        never   0     0
+ 842        never   0     0
+ 843        never   0     0
+ 844        never   0     0
+ 845        never   0     0
+ 846        never   0     0
+ 847        never   0     0
+ 848        never   0     0
+ 849        never   0     0
+ 850        never   0     0
+ 851        never   0     0
+ 852        never   0     0
+ 853        never   0     0
+ 854        never   0     0
+ 855        never   0     0
+ 856        never   0     0
+ 857        never   0     0
+ 858        never   0     0
+ 859        never   0     0
+ 860        never   0     0
+ 861        never   0     0
+ 862        never   0     0
+ 863        never   0     0
+ 864        never   0     0
+ 865        never   0     0
+ 866        never   0     0
+ 867        never   0     0
+ 868        never   0     0
+ 869        never   0     0
+ 870        never   0     0
+ 871        never   0     0
+ 872        never   0     0
+ 873        never   0     0
+ 874        never   0     0
+ 875        never   0     0
+ 876        never   0     0
+ 877        never   0     0
+ 878        never   0     0
+ 879        never   0     0
+ 880        never   0     0
+ 881        never   0     0
+ 882        never   0     0
+ 883        never   0     0
+ 884        never   0     0
+ 885        never   0     0
+ 886        never   0     0
+ 887        never   0     0
+ 888        never   0     0
+ 889        never   0     0
+ 890        never   0     0
+ 891        never   0     0
+ 892        never   0     0
+ 893        never   0     0
+ 894        never   0     0
+ 895        never   0     0
+ 896        never   0     0
+ 897        never   0     0
+ 898        never   0     0
+ 899        never   0     0
+ 900        never   0     0
+ 901        never   0     0
+ 902        never   0     0
+ 903        never   0     0
+ 904        never   0     0
+ 905        never   0     0
+ 906        never   0     0
+ 907        never   0     0
+ 908        never   0     0
+ 909        never   0     0
+ 910        never   0     0
+ 911        never   0     0
+ 912        never   0     0
+ 913        never   0     0
+ 914        never   0     0
+ 915        never   0     0
+ 916        never   0     0
+ 917        never   0     0
+ 918        never   0     0
+ 919        never   0     0
+ 920        never   0     0
+ 921        never   0     0
+ 922        never   0     0
+ 923        never   0     0
+ 924        never   0     0
+ 925        never   0     0
+ 926        never   0     0
+ 927        never   0     0
+ 928        never   0     0
+ 929        never   0     0
+ 930        never   0     0
+ 931        never   0     0
+ 932        never   0     0
+ 933        never   0     0
+ 934        never   0     0
+ 935        never   0     0
+ 936        never   0     0
+ 937        never   0     0
+ 938        never   0     0
+ 939        never   0     0
+ 940        never   0     0
+ 941        never   0     0
+ 942        never   0     0
+ 943        never   0     0
+ 944        never   0     0
+ 945        never   0     0
+ 946        never   0     0
+ 947        never   0     0
+ 948        never   0     0
+ 949        never   0     0
+ 950        never   0     0
+ 951        never   0     0
+ 952        never   0     0
+ 953        never   0     0
+ 954        never   0     0
+ 955        never   0     0
+ 956        never   0     0
+ 957        never   0     0
+ 958        never   0     0
+ 959        never   0     0
+ 960        never   0     0
+ 961        never   0     0
+ 962        never   0     0
+ 963        never   0     0
+ 964        never   0     0
+ 965        never   0     0
+ 966        never   0     0
+ 967        never   0     0
+ 968        never   0     0
+ 969        never   0     0
+ 970        never   0     0
+ 971        never   0     0
+ 972        never   0     0
+ 973        never   0     0
+ 974        never   0     0
+ 975        never   0     0
+ 976        never   0     0
+ 977        never   0     0
+ 978        never   0     0
+ 979        never   0     0
+ 980        never   0     0
+ 981        never   0     0
+ 982        never   0     0
+ 983        never   0     0
+ 984        never   0     0
+ 985        never   0     0
+ 986        never   0     0
+ 987        never   0     0
+ 988        never   0     0
+ 989        never   0     0
+ 990        never   0     0
+ 991        never   0     0
+ 992        never   0     0
+ 993        never   0     0
+ 994        never   0     0
+ 995        never   0     0
+ 996        never   0     0
+ 997        never   0     0
+ 998        never   0     0
+ 999        never   0     0
+1000        never   0     0
+1001        never   0     0
+1002        never   0     0
+1003        never   0     0
+1004        never   0     0
+1005        never   0     0
+1006        never   0     0
+1007        never   0     0
+1008        never   0     0
+1009        never   0     0
+1010        never   0     0
+1011        never   0     0
+1012        never   0     0
+1013        never   0     0
+1014        never   0     0
+1015        never   0     0
+1016        never   0     0
+1017        never   0     0
+1018        never   0     0
+1019        never   0     0
+1020        never   0     0
+1021        never   0     0
+1022        never   0     0
+1023        never   0     0
+1024        never   0     0
+1025        never   0     0
+1026        never   0     0
+1027        never   0     0
+1028        never   0     0
+1029        never   0     0
+1030        never   0     0
+1031        never   0     0
+1032        never   0     0
+1033        never   0     0
+1034        never   0     0
+1035        never   0     0
+1036        never   0     0
+1037        never   0     0
+1038        never   0     0
+1039        never   0     0
+1040        never   0     0
+1041        never   0     0
+1042        never   0     0
+1043        never   0     0
+1044        never   0     0
+1045        never   0     0
+1046        never   0     0
+1047        never   0     0
+1048        never   0     0
+1049        never   0     0
+1050        never   0     0
+1051        never   0     0
+1052        never   0     0
+1053        never   0     0
+1054        never   0     0
+1055        never   0     0
+1056        never   0     0
+1057        never   0     0
+1058        never   0     0
+1059        never   0     0
+1060        never   0     0
+1061        never   0     0
+1062        never   0     0
+1063        never   0     0
+1064        never   0     0
+1065        never   0     0
+1066        never   0     0
+1067        never   0     0
+1068        never   0     0
+1069        never   0     0
+1070        never   0     0
+1071        never   0     0
+1072        never   0     0
+1073        never   0     0
+1074        never   0     0
+1075        never   0     0
+1076        never   0     0
+1077        never   0     0
+1078        never   0     0
+1079        never   0     0
+1080        never   0     0
+1081        never   0     0
+1082        never   0     0
+1083        never   0     0
+1084        never   0     0
+1085        never   0     0
+1086        never   0     0
+1087        never   0     0
+1088        never   0     0
+1089        never   0     0
+1090        never   0     0
+1091        never   0     0
+1092        never   0     0
+1093        never   0     0
+1094        never   0     0
+1095        never   0     0
+1096        never   0     0
+1097        never   0     0
+1098        never   0     0
+1099        never   0     0
+1100        never   0     0
+1101        never   0     0
+1102        never   0     0
+1103        never   0     0
+1104        never   0     0
+1105        never   0     0
+1106        never   0     0
+1107        never   0     0
+1108        never   0     0
+1109        never   0     0
+1110        never   0     0
+1111        never   0     0
+1112        never   0     0
+1113        never   0     0
+1114        never   0     0
+1115        never   0     0
+1116        never   0     0
+1117        never   0     0
+1118        never   0     0
+1119        never   0     0
+1120        never   0     0
+1121        never   0     0
+1122        never   0     0
+1123        never   0     0
+1124        never   0     0
+1125        never   0     0
+1126        never   0     0
+1127        never   0     0
+1128        never   0     0
+1129        never   0     0
+1130        never   0     0
+1131        never   0     0
+1132        never   0     0
+1133        never   0     0
+1134        never   0     0
+1135        never   0     0
+1136        never   0     0
+1137        never   0     0
+1138        never   0     0
+1139        never   0     0
+1140        never   0     0
+1141        never   0     0
+1142        never   0     0
+1143        never   0     0
+1144        never   0     0
+1145        never   0     0
+1146        never   0     0
+1147        never   0     0
+1148        never   0     0
+1149        never   0     0
+1150        never   0     0
+1151        never   0     0
+1152        never   0     0
+1153        never   0     0
+1154        never   0     0
+1155        never   0     0
+1156        never   0     0
+1157        never   0     0
+1158        never   0     0
+1159        never   0     0
+1160        never   0     0
+1161        never   0     0
+1162        never   0     0
+1163        never   0     0
+1164        never   0     0
+1165        never   0     0
+1166        never   0     0
+1167        never   0     0
+1168        never   0     0
+1169        never   0     0
+1170        never   0     0
+1171        never   0     0
+1172        never   0     0
+1173        never   0     0
+1174        never   0     0
+1175        never   0     0
+1176        never   0     0
+1177        never   0     0
+1178        never   0     0
+1179        never   0     0
+1180        never   0     0
+1181        never   0     0
+1182        never   0     0
+1183        never   0     0
+1184        never   0     0
+1185        never   0     0
+1186        never   0     0
+1187        never   0     0
+1188        never   0     0
+1189        never   0     0
+1190        never   0     0
+1191        never   0     0
+1192        never   0     0
+1193        never   0     0
+1194        never   0     0
+1195        never   0     0
+1196        never   0     0
+1197        never   0     0
+1198        never   0     0
+1199        never   0     0
+1200        never   0     0
+1201        never   0     0
+1202        never   0     0
+1203        never   0     0
+1204        never   0     0
+1205        never   0     0
+1206        never   0     0
+1207        never   0     0
+1208        never   0     0
+1209        never   0     0
+1210        never   0     0
+1211        never   0     0
+1212        never   0     0
+1213        never   0     0
+1214        never   0     0
+1215        never   0     0
+1216        never   0     0
+1217        never   0     0
+1218        never   0     0
+1219        never   0     0
+1220        never   0     0
+1221        never   0     0
+1222        never   0     0
+1223        never   0     0
+1224        never   0     0
+1225        never   0     0
+1226        never   0     0
+1227        never   0     0
+1228        never   0     0
+1229        never   0     0
+1230        never   0     0
+1231        never   0     0
+1232        never   0     0
+1233        never   0     0
+1234        never   0     0
+1235        never   0     0
+1236        never   0     0
+1237        never   0     0
+1238        never   0     0
+1239        never   0     0
+1240        never   0     0
+1241        never   0     0
+1242        never   0     0
+1243        never   0     0
+1244        never   0     0
+1245        never   0     0
+1246        never   0     0
+1247        never   0     0
+1248        never   0     0
+1249        never   0     0
+1250        never   0     0
+1251        never   0     0
+1252        never   0     0
+1253        never   0     0
+1254        never   0     0
+1255        never   0     0
+1256        never   0     0
+1257        never   0     0
+1258        never   0     0
+1259        never   0     0
+1260        never   0     0
+1261        never   0     0
+1262        never   0     0
+1263        never   0     0
+1264        never   0     0
+1265        never   0     0
+1266        never   0     0
+1267        never   0     0
+1268        never   0     0
+1269        never   0     0
+1270        never   0     0
+1271        never   0     0
+1272        never   0     0
+1273        never   0     0
+1274        never   0     0
+1275        never   0     0
+1276        never   0     0
+1277        never   0     0
+1278        never   0     0
+1279        never   0     0
+1280        never   0     0
+1281        never   0     0
+1282        never   0     0
+1283        never   0     0
+1284        never   0     0
+1285        never   0     0
+1286        never   0     0
+1287        never   0     0
+1288        never   0     0
+1289        never   0     0
+1290        never   0     0
+1291        never   0     0
+1292        never   0     0
+1293        never   0     0
+1294        never   0     0
+1295        never   0     0
+1296        never   0     0
+1297        never   0     0
+1298        never   0     0
+1299        never   0     0
+1300        never   0     0
+1301        never   0     0
+1302        never   0     0
+1303        never   0     0
+1304        never   0     0
+1305        never   0     0
+1306        never   0     0
+1307        never   0     0
+1308        never   0     0
+1309        never   0     0
+1310        never   0     0
+1311        never   0     0
+1312        never   0     0
+1313        never   0     0
+1314        never   0     0
+1315        never   0     0
+1316        never   0     0
+1317        never   0     0
+1318        never   0     0
+1319        never   0     0
+1320        never   0     0
+1321        never   0     0
+1322        never   0     0
+1323        never   0     0
+1324        never   0     0
+1325        never   0     0
+1326        never   0     0
+1327        never   0     0
+1328        never   0     0
+1329        never   0     0
+1330        never   0     0
+1331        never   0     0
+1332        never   0     0
+1333        never   0     0
+1334        never   0     0
+1335        never   0     0
+1336        never   0     0
+1337        never   0     0
+1338        never   0     0
+1339        never   0     0
+1340        never   0     0
+1341        never   0     0
+1342        never   0     0
+1343        never   0     0
+1344        never   0     0
+1345        never   0     0
+1346        never   0     0
+1347        never   0     0
+1348        never   0     0
+1349        never   0     0
+1350        never   0     0
+1351        never   0     0
+1352        never   0     0
+1353        never   0     0
+1354        never   0     0
+1355        never   0     0
+1356        never   0     0
+1357        never   0     0
+1358        never   0     0
+1359        never   0     0
+1360        never   0     0
+1361        never   0     0
+1362        never   0     0
+1363        never   0     0
+1364        never   0     0
+1365        never   0     0
+1366        never   0     0
+1367        never   0     0
+1368        never   0     0
+1369        never   0     0
+1370        never   0     0
+1371        never   0     0
+1372        never   0     0
+1373        never   0     0
+1374        never   0     0
+1375        never   0     0
+1376        never   0     0
+1377        never   0     0
+1378        never   0     0
+1379        never   0     0
+1380        occas   2     1
+1381        occas   2     1
+1382        occas   2     1
+1383        occas   2     1
+1384        occas   2     1
+1385        occas   2     1
+1386        occas   2     1
+1387        occas   2     1
+1388        occas   2     1
+1389        occas   2     1
+1390        occas   2     1
+1391        occas   2     1
+1392        occas   2     1
+1393        occas   2     1
+1394        occas   2     1
+1395        occas   2     1
+1396        occas   2     1
+1397        occas   2     1
+1398        occas   2     1
+1399        occas   2     1
+1400        occas   2     1
+1401        occas   2     1
+1402        occas   2     1
+1403        occas   2     1
+1404        occas   2     1
+1405        occas   2     1
+1406        occas   2     1
+1407        occas   2     1
+1408        occas   2     1
+1409        occas   2     1
+1410        occas   2     1
+1411        occas   2     1
+1412        occas   2     1
+1413        occas   2     1
+1414        occas   2     1
+1415        occas   2     0
+1416        occas   2     0
+1417        occas   2     0
+1418        occas   2     0
+1419        occas   2     0
+1420        occas   2     0
+1421        occas   2     0
+1422        occas   2     0
+1423        occas   2     0
+1424        occas   2     0
+1425        occas   2     0
+1426        occas   2     0
+1427        occas   2     0
+1428        occas   2     0
+1429        occas   2     0
+1430        occas   2     0
+1431        occas   2     0
+1432        occas   2     0
+1433        occas   2     0
+1434        occas   2     0
+1435        occas   2     0
+1436        occas   2     0
+1437        occas   2     0
+1438        occas   2     0
+1439        occas   2     0
+1440        occas   2     0
+1441        occas   2     0
+1442        occas   2     0
+1443        occas   2     0
+1444        occas   2     0
+1445        occas   2     0
+1446        occas   2     0
+1447        occas   2     0
+1448        occas   2     0
+1449        occas   2     0
+1450        occas   2     0
+1451        occas   2     0
+1452        occas   2     0
+1453        occas   2     0
+1454        occas   2     0
+1455        occas   2     0
+1456        occas   2     0
+1457        occas   2     0
+1458        occas   2     0
+1459        occas   2     0
+1460        occas   2     0
+1461        occas   2     0
+1462        occas   2     0
+1463        occas   2     0
+1464        occas   2     0
+1465        occas   2     0
+1466        occas   2     0
+1467        occas   2     0
+1468        occas   2     0
+1469        occas   2     0
+1470        occas   2     0
+1471        occas   2     0
+1472        occas   2     0
+1473        occas   2     0
+1474        occas   2     0
+1475        occas   2     0
+1476        occas   2     0
+1477        occas   2     0
+1478        occas   2     0
+1479        occas   2     0
+1480        occas   2     0
+1481        occas   2     0
+1482        occas   2     0
+1483        occas   2     0
+1484        occas   2     0
+1485        occas   2     0
+1486        occas   2     0
+1487        occas   2     0
+1488        occas   2     0
+1489        occas   2     0
+1490        occas   2     0
+1491        occas   2     0
+1492        occas   2     0
+1493        occas   2     0
+1494        occas   2     0
+1495        occas   2     0
+1496        occas   2     0
+1497        occas   2     0
+1498        occas   2     0
+1499        occas   2     0
+1500        occas   2     0
+1501        occas   2     0
+1502        occas   2     0
+1503        occas   2     0
+1504        occas   2     0
+1505        occas   2     0
+1506        occas   2     0
+1507        occas   2     0
+1508        occas   2     0
+1509        occas   2     0
+1510        occas   2     0
+1511        occas   2     0
+1512        occas   2     0
+1513        occas   2     0
+1514        occas   2     0
+1515        occas   2     0
+1516        occas   2     0
+1517        occas   2     0
+1518        occas   2     0
+1519        occas   2     0
+1520        occas   2     0
+1521        occas   2     0
+1522        occas   2     0
+1523        occas   2     0
+1524        occas   2     0
+1525        occas   2     0
+1526        occas   2     0
+1527        occas   2     0
+1528        occas   2     0
+1529        occas   2     0
+1530        occas   2     0
+1531        occas   2     0
+1532        occas   2     0
+1533        occas   2     0
+1534        occas   2     0
+1535        occas   2     0
+1536        occas   2     0
+1537        occas   2     0
+1538        occas   2     0
+1539        occas   2     0
+1540        occas   2     0
+1541        occas   2     0
+1542        occas   2     0
+1543        occas   2     0
+1544        occas   2     0
+1545        occas   2     0
+1546        occas   2     0
+1547        occas   2     0
+1548        occas   2     0
+1549        occas   2     0
+1550        occas   2     0
+1551        occas   2     0
+1552        occas   2     0
+1553        occas   2     0
+1554        occas   2     0
+1555        occas   2     0
+1556        occas   2     0
+1557        occas   2     0
+1558        occas   2     0
+1559        occas   2     0
+1560        occas   2     0
+1561        occas   2     0
+1562        occas   2     0
+1563        occas   2     0
+1564        occas   2     0
+1565        occas   2     0
+1566        occas   2     0
+1567        occas   2     0
+1568        occas   2     0
+1569        occas   2     0
+1570        occas   2     0
+1571        occas   2     0
+1572        occas   2     0
+1573        occas   2     0
+1574        occas   2     0
+1575        occas   2     0
+1576        occas   2     0
+1577        occas   2     0
+1578        occas   2     0
+1579        occas   2     0
+1580        occas   2     0
+1581        occas   2     0
+1582        occas   2     0
+1583        occas   2     0
+1584        occas   2     0
+1585        occas   2     0
+1586        occas   2     0
+1587        occas   2     0
+1588        occas   2     0
+1589        occas   2     0
+1590        occas   2     0
+1591        occas   2     0
+1592        occas   2     0
+1593        occas   2     0
+1594        occas   2     0
+1595        occas   2     0
+1596        occas   2     0
+1597        occas   2     0
+1598        occas   2     0
+1599        occas   2     0
+1600        occas   2     0
+1601        occas   2     0
+1602        occas   2     0
+1603        occas   2     0
+1604        occas   2     0
+1605        occas   2     0
+1606        occas   2     0
+1607        occas   2     0
+1608        occas   2     0
+1609        occas   2     0
+1610        occas   2     0
+1611        occas   2     0
+1612        occas   2     0
+1613        occas   2     0
+1614        occas   2     0
+1615        occas   2     0
+1616        occas   2     0
+1617        occas   2     0
+1618        occas   2     0
+1619        occas   2     0
+1620        occas   2     0
+1621        occas   2     0
+1622        occas   2     0
+1623        occas   2     0
+1624        occas   2     0
+1625        occas   2     0
+1626        occas   2     0
+1627        occas   2     0
+1628        occas   2     0
+1629        occas   2     0
+1630        occas   2     0
+1631        occas   2     0
+1632        occas   2     0
+1633        occas   2     0
+1634        occas   2     0
+1635        occas   2     0
+1636        occas   2     0
+1637        occas   2     0
+1638        occas   2     0
+1639        occas   2     0
+1640        occas   2     0
+1641        occas   2     0
+1642        occas   2     0
+1643        occas   2     0
+1644        occas   2     0
+1645        occas   2     0
+1646        occas   2     0
+1647        occas   2     0
+1648        occas   2     0
+1649        occas   2     0
+1650        occas   2     0
+1651        occas   2     0
+1652        occas   2     0
+1653        occas   2     0
+1654        occas   2     0
+1655        occas   2     0
+1656        occas   2     0
+1657        occas   2     0
+1658        occas   2     0
+1659        occas   2     0
+1660        occas   2     0
+1661        occas   2     0
+1662        occas   2     0
+1663        occas   2     0
+1664        occas   2     0
+1665        occas   2     0
+1666        occas   2     0
+1667        occas   2     0
+1668        occas   2     0
+1669        occas   2     0
+1670        occas   2     0
+1671        occas   2     0
+1672        occas   2     0
+1673        occas   2     0
+1674        occas   2     0
+1675        occas   2     0
+1676        occas   2     0
+1677        occas   2     0
+1678        occas   2     0
+1679        occas   2     0
+1680        occas   2     0
+1681        occas   2     0
+1682        occas   2     0
+1683        occas   2     0
+1684        occas   2     0
+1685        occas   2     0
+1686        occas   2     0
+1687        occas   2     0
+1688        occas   2     0
+1689        occas   2     0
+1690        occas   2     0
+1691        occas   2     0
+1692        occas   2     0
+1693        occas   2     0
+1694        occas   2     0
+1695        occas   2     0
+1696        occas   2     0
+1697        occas   2     0
+1698        occas   2     0
+1699        occas   2     0
+1700        occas   2     0
+1701        occas   2     0
+1702        occas   2     0
+1703        occas   2     0
+1704        occas   2     0
+1705        occas   2     0
+1706        occas   2     0
+1707        occas   2     0
+1708        occas   2     0
+1709        occas   2     0
+1710        occas   2     0
+1711        occas   2     0
+1712        occas   2     0
+1713        occas   2     0
+1714        occas   2     0
+1715        occas   2     0
+1716        occas   2     0
+1717        occas   2     0
+1718        occas   2     0
+1719        occas   2     0
+1720        occas   2     0
+1721        occas   2     0
+1722        occas   2     0
+1723        occas   2     0
+1724        occas   2     0
+1725        occas   2     0
+1726        occas   2     0
+1727        occas   2     0
+1728        occas   2     0
+1729        occas   2     0
+1730        occas   2     0
+1731        occas   2     0
+1732        occas   2     0
+1733        occas   2     0
+1734        occas   2     0
+1735        occas   2     0
+1736        occas   2     0
+1737        occas   2     0
+1738        occas   2     0
+1739        occas   2     0
+1740        occas   2     0
+1741        occas   2     0
+1742        occas   2     0
+1743        occas   2     0
+1744        occas   2     0
+1745        occas   2     0
+1746        occas   2     0
+1747        occas   2     0
+1748        occas   2     0
+1749        occas   2     0
+1750        occas   2     0
+1751        occas   2     0
+1752        occas   2     0
+1753        occas   2     0
+1754        occas   2     0
+1755        occas   2     0
+1756        occas   2     0
+1757        occas   2     0
+1758        occas   2     0
+1759        occas   2     0
+1760        occas   2     0
+1761        occas   2     0
+1762        occas   2     0
+1763        occas   2     0
+1764        occas   2     0
+1765        occas   2     0
+1766        occas   2     0
+1767        occas   2     0
+1768        occas   2     0
+1769        occas   2     0
+1770        occas   2     0
+1771        occas   2     0
+1772        occas   2     0
+1773        occas   2     0
+1774        occas   2     0
+1775        occas   2     0
+1776        occas   2     0
+1777        occas   2     0
+1778        occas   2     0
+1779        occas   2     0
+1780        occas   2     0
+1781        occas   2     0
+1782        occas   2     0
+1783        occas   2     0
+1784        occas   2     0
+1785        occas   2     0
+1786        occas   2     0
+1787        occas   2     0
+1788        occas   2     0
+1789        occas   2     0
+1790        occas   2     0
+1791        occas   2     0
+1792        occas   2     0
+1793        occas   2     0
+1794        occas   2     0
+1795        occas   2     0
+1796        occas   2     0
+1797        occas   2     0
+1798        occas   2     0
+1799        occas   2     0
+1800        occas   2     0
+1801        occas   2     0
+1802        occas   2     0
+1803        occas   2     0
+1804        occas   2     0
+1805        occas   2     0
+1806        occas   2     0
+1807        occas   2     0
+1808        occas   2     0
+1809        occas   2     0
+1810        occas   2     0
+1811        occas   2     0
+1812        occas   2     0
+1813        occas   2     0
+1814        occas   2     0
+1815        occas   2     0
+1816        occas   2     0
+1817        occas   2     0
+1818        occas   2     0
+1819        occas   2     0
+1820        occas   2     0
+1821        occas   2     0
+1822        occas   2     0
+1823        occas   2     0
+1824        occas   2     0
+1825        occas   2     0
+1826        occas   2     0
+1827        occas   2     0
+1828        occas   2     0
+1829        occas   2     0
+1830        occas   2     0
+1831        occas   2     0
+1832        occas   2     0
+1833        occas   2     0
+1834        occas   2     0
+1835        occas   2     0
+1836        occas   2     0
+1837        occas   2     0
+1838        occas   2     0
+1839        occas   2     0
+1840        occas   2     0
+1841        occas   2     0
+1842        occas   2     0
+1843        occas   2     0
+1844        occas   2     0
+1845        occas   2     0
+1846        occas   2     0
+1847        occas   2     0
+1848        occas   2     0
+1849        occas   2     0
+1850        occas   2     0
+1851        occas   2     0
+1852        occas   2     0
+1853        occas   2     0
+1854        occas   2     0
+1855        occas   2     0
+1856        occas   2     0
+1857        occas   2     0
+1858        occas   2     0
+1859        occas   2     0
+1860        occas   2     0
+1861        occas   2     0
+1862        occas   2     0
+1863        occas   2     0
+1864        occas   2     0
+1865        occas   2     0
+1866        occas   2     0
+1867        occas   2     0
+1868        occas   2     0
+1869        occas   2     0
+1870        occas   2     0
+1871        occas   2     0
+1872        occas   2     0
+1873        occas   2     0
+1874        occas   2     0
+1875        occas   2     0
+1876        occas   2     0
+1877        occas   2     0
+1878        occas   2     0
+1879        occas   2     0
+1880        occas   2     0
+1881        occas   2     0
+1882        occas   2     0
+1883        occas   2     0
+1884        occas   2     0
+1885        occas   2     0
+1886        occas   2     0
+1887        occas   2     0
+1888        occas   2     0
+1889        occas   2     0
+1890        occas   2     0
+1891        occas   2     0
+1892        occas   2     0
+1893        occas   2     0
+1894        occas   2     0
+1895        occas   2     0
+1896        occas   2     0
+1897        occas   2     0
+1898        occas   2     0
+1899        occas   2     0
+1900        occas   2     0
+1901        occas   2     0
+1902        occas   2     0
+1903        occas   2     0
+1904        occas   2     0
+1905        occas   2     0
+1906        occas   2     0
+1907        occas   2     0
+1908        occas   2     0
+1909        occas   2     0
+1910        occas   2     0
+1911        occas   2     0
+1912        occas   2     0
+1913        occas   2     0
+1914        occas   2     0
+1915        occas   2     0
+1916        occas   2     0
+1917        occas   2     0
+1918        occas   2     0
+1919        occas   2     0
+1920        occas   2     0
+1921        occas   2     0
+1922        occas   2     0
+1923        occas   2     0
+1924        occas   2     0
+1925        occas   2     0
+1926        occas   2     0
+1927        occas   2     0
+1928        occas   2     0
+1929        occas   2     0
+1930        occas   2     0
+1931        occas   2     0
+1932        occas   2     0
+1933        occas   2     0
+1934        occas   2     0
+1935        occas   2     0
+1936        occas   2     0
+1937        occas   2     0
+1938        occas   2     0
+1939        occas   2     0
+1940        occas   2     0
+1941        occas   2     0
+1942        occas   2     0
+1943        occas   2     0
+1944        occas   2     0
+1945        occas   2     0
+1946        occas   2     0
+1947        occas   2     0
+1948        occas   2     0
+1949        occas   2     0
+1950        occas   2     0
+1951        occas   2     0
+1952        occas   2     0
+1953        occas   2     0
+1954        occas   2     0
+1955        occas   2     0
+1956        occas   2     0
+1957        occas   2     0
+1958        occas   2     0
+1959        occas   2     0
+1960        occas   2     0
+1961        occas   2     0
+1962        occas   2     0
+1963        occas   2     0
+1964        occas   2     0
+1965        occas   2     0
+1966        occas   2     0
+1967        occas   2     0
+1968        occas   2     0
+1969        occas   2     0
+1970        occas   2     0
+1971        occas   2     0
+1972        occas   2     0
+1973        occas   2     0
+1974        occas   2     0
+1975        occas   2     0
+1976        occas   2     0
+1977        occas   2     0
+1978        occas   2     0
+1979        occas   2     0
+1980        occas   2     0
+1981        occas   2     0
+1982        occas   2     0
+1983        occas   2     0
+1984        occas   2     0
+1985        occas   2     0
+1986        occas   2     0
+1987        occas   2     0
+1988        occas   2     0
+1989        occas   2     0
+1990        occas   2     0
+1991        occas   2     0
+1992        occas   2     0
+1993        occas   2     0
+1994        occas   2     0
+1995        occas   2     0
+1996        occas   2     0
+1997        occas   2     0
+1998        occas   2     0
+1999        occas   2     0
+2000        occas   2     0
+2001        occas   2     0
+2002        occas   2     0
+2003        occas   2     0
+2004        occas   2     0
+2005        occas   2     0
+2006        occas   2     0
+2007        occas   2     0
+2008        occas   2     0
+2009        occas   2     0
+2010        occas   2     0
+2011        occas   2     0
+2012        occas   2     0
+2013        occas   2     0
+2014        occas   2     0
+2015        occas   2     0
+2016        occas   2     0
+2017        occas   2     0
+2018        nearly  4     1
+2019        nearly  4     1
+2020        nearly  4     1
+2021        nearly  4     1
+2022        nearly  4     1
+2023        nearly  4     1
+2024        nearly  4     1
+2025        nearly  4     1
+2026        nearly  4     1
+2027        nearly  4     1
+2028        nearly  4     1
+2029        nearly  4     1
+2030        nearly  4     1
+2031        nearly  4     1
+2032        nearly  4     1
+2033        nearly  4     1
+2034        nearly  4     1
+2035        nearly  4     1
+2036        nearly  4     1
+2037        nearly  4     1
+2038        nearly  4     1
+2039        nearly  4     0
+2040        nearly  4     0
+2041        nearly  4     0
+2042        nearly  4     0
+2043        nearly  4     0
+2044        nearly  4     0
+2045        nearly  4     0
+2046        nearly  4     0
+2047        nearly  4     0
+2048        nearly  4     0
+2049        nearly  4     0
+2050        nearly  4     0
+2051        nearly  4     0
+2052        nearly  4     0
+2053        nearly  4     0
+2054        nearly  4     0
+2055        nearly  4     0
+2056        nearly  4     0
+2057        nearly  4     0
+2058        nearly  4     0
+2059        nearly  4     0
+2060        nearly  4     0
+2061        nearly  4     0
+2062        nearly  4     0
+2063        nearly  4     0
+2064        nearly  4     0
+2065        nearly  4     0
+2066        nearly  4     0
+2067        nearly  4     0
+2068        nearly  4     0
+2069        nearly  4     0
+2070        nearly  4     0
+2071        nearly  4     0
+2072        nearly  4     0
+2073        nearly  4     0
+2074        nearly  4     0
+2075        nearly  4     0
+2076        nearly  4     0
+2077        nearly  4     0
+2078        nearly  4     0
+2079        nearly  4     0
+2080        nearly  4     0
+2081        nearly  4     0
+2082        nearly  4     0
+2083        nearly  4     0
+2084        nearly  4     0
+2085        nearly  4     0
+2086        nearly  4     0
+2087        nearly  4     0
+2088        nearly  4     0
+2089        nearly  4     0
+2090        nearly  4     0
+2091        nearly  4     0
+2092        nearly  4     0
+2093        nearly  4     0
+2094        nearly  4     0
+2095        nearly  4     0
+2096        nearly  4     0
+2097        nearly  4     0
+2098        nearly  4     0
+2099        nearly  4     0
+2100        nearly  4     0
+2101        nearly  4     0
+2102        nearly  4     0
+2103        nearly  4     0
+2104        nearly  4     0
+2105        nearly  4     0
+2106        nearly  4     0
+2107        nearly  4     0
+2108        nearly  4     0
+2109        nearly  4     0
+2110        nearly  4     0
+2111        nearly  4     0
+2112        nearly  4     0
+2113        nearly  4     0
+2114        nearly  4     0
+2115        nearly  4     0
+2116        nearly  4     0
+2117        nearly  4     0
+2118        nearly  4     0
+2119        nearly  4     0
+2120        nearly  4     0
+2121        nearly  4     0
+2122        nearly  4     0
+2123        nearly  4     0
+2124        nearly  4     0
+2125        nearly  4     0
+2126        nearly  4     0
+2127        nearly  4     0
+2128        nearly  4     0
+2129        nearly  4     0
+2130        nearly  4     0
+2131        nearly  4     0
+2132        nearly  4     0
+2133        nearly  4     0
+2134        nearly  4     0
+2135        nearly  4     0
+2136        nearly  4     0
+2137        nearly  4     0
+2138        nearly  4     0
+2139        nearly  4     0
+2140        nearly  4     0
+2141        nearly  4     0
+2142        nearly  4     0
+2143        nearly  4     0
+2144        nearly  4     0
+2145        nearly  4     0
+2146        nearly  4     0
+2147        nearly  4     0
+2148        nearly  4     0
+2149        nearly  4     0
+2150        nearly  4     0
+2151        nearly  4     0
+2152        nearly  4     0
+2153        nearly  4     0
+2154        nearly  4     0
+2155        nearly  4     0
+2156        nearly  4     0
+2157        nearly  4     0
+2158        nearly  4     0
+2159        nearly  4     0
+2160        nearly  4     0
+2161        nearly  4     0
+2162        nearly  4     0
+2163        nearly  4     0
+2164        nearly  4     0
+2165        nearly  4     0
+2166        nearly  4     0
+2167        nearly  4     0
+2168        nearly  4     0
+2169        nearly  4     0
+2170        nearly  4     0
+2171        nearly  4     0
+2172        nearly  4     0
+2173        nearly  4     0
+2174        nearly  4     0
+2175        nearly  4     0
+2176        nearly  4     0
+2177        nearly  4     0
+2178        nearly  4     0
+2179        nearly  4     0
+2180        nearly  4     0
+2181        nearly  4     0
+2182        nearly  4     0
+2183        nearly  4     0
+2184        nearly  4     0
+2185        nearly  4     0
+2186        nearly  4     0
+2187        nearly  4     0
+2188        nearly  4     0
+2189        nearly  4     0
+2190        nearly  4     0
+2191        nearly  4     0
+2192        nearly  4     0
+2193        nearly  4     0
+2194        nearly  4     0
+2195        nearly  4     0
+2196        nearly  4     0
+2197        nearly  4     0
+2198        nearly  4     0
+2199        nearly  4     0
+2200        nearly  4     0
+2201        nearly  4     0
+2202        nearly  4     0
+2203        nearly  4     0
+2204        nearly  4     0
+2205        nearly  4     0
+2206        nearly  4     0
+2207        nearly  4     0
+2208        nearly  4     0
+2209        nearly  4     0
+2210        nearly  4     0
+2211        nearly  4     0
+2212        nearly  4     0
+2213        nearly  4     0
+2214        nearly  4     0
+2215        nearly  4     0
+2216        nearly  4     0
+2217        nearly  4     0
+2218        nearly  4     0
+2219        nearly  4     0
+2220        nearly  4     0
+2221        nearly  4     0
+2222        nearly  4     0
+2223        nearly  4     0
+2224        nearly  4     0
+2225        nearly  4     0
+2226        nearly  4     0
+2227        nearly  4     0
+2228        nearly  4     0
+2229        nearly  4     0
+2230        nearly  4     0
+2231        every   5     1
+2232        every   5     1
+2233        every   5     1
+2234        every   5     1
+2235        every   5     1
+2236        every   5     1
+2237        every   5     1
+2238        every   5     1
+2239        every   5     1
+2240        every   5     1
+2241        every   5     1
+2242        every   5     1
+2243        every   5     1
+2244        every   5     1
+2245        every   5     1
+2246        every   5     1
+2247        every   5     1
+2248        every   5     1
+2249        every   5     1
+2250        every   5     1
+2251        every   5     1
+2252        every   5     1
+2253        every   5     1
+2254        every   5     1
+2255        every   5     1
+2256        every   5     1
+2257        every   5     1
+2258        every   5     1
+2259        every   5     1
+2260        every   5     1
+2261        every   5     0
+2262        every   5     0
+2263        every   5     0
+2264        every   5     0
+2265        every   5     0
+2266        every   5     0
+2267        every   5     0
+2268        every   5     0
+2269        every   5     0
+2270        every   5     0
+2271        every   5     0
+2272        every   5     0
+2273        every   5     0
+2274        every   5     0
+2275        every   5     0
+2276        every   5     0
+2277        every   5     0
+2278        every   5     0
+2279        every   5     0
+2280        every   5     0
+2281        every   5     0
+2282        every   5     0
+2283        every   5     0
+2284        every   5     0
+2285        every   5     0
+2286        every   5     0
+2287        every   5     0
+2288        every   5     0
+2289        every   5     0
+2290        every   5     0
+2291        every   5     0
+2292        every   5     0
+2293        every   5     0
+2294        every   5     0
+2295        every   5     0
+2296        every   5     0
+2297        every   5     0
+2298        every   5     0
+2299        every   5     0
+2300        every   5     0
+2301        every   5     0
+2302        every   5     0
+2303        every   5     0
+2304        every   5     0
+2305        every   5     0
+2306        every   5     0
+2307        every   5     0
+2308        every   5     0
+2309        every   5     0
+2310        every   5     0
+2311        every   5     0
+2312        every   5     0
+2313        every   5     0
+2314        every   5     0
+2315        every   5     0
+2316        every   5     0
+2317        every   5     0
+2318        every   5     0
+2319        every   5     0
+2320        every   5     0
+2321        every   5     0
+2322        every   5     0
+2323        every   5     0
+2324        every   5     0
+2325        every   5     0
+2326        every   5     0
+2327        every   5     0
+2328        every   5     0
+2329        every   5     0
+2330        every   5     0
+2331        every   5     0
+2332        every   5     0
+2333        every   5     0
+2334        every   5     0
+2335        every   5     0
+2336        every   5     0
+2337        every   5     0
+2338        every   5     0
+2339        every   5     0
+2340        every   5     0
+2341        every   5     0
+2342        every   5     0
+2343        every   5     0
+2344        every   5     0
+2345        every   5     0
+2346        every   5     0
+2347        every   5     0
+2348        every   5     0
+2349        every   5     0
+2350        every   5     0
+2351        every   5     0
+2352        every   5     0
+2353        every   5     0
+2354        every   5     0
+2355        every   5     0
+2356        every   5     0
+2357        every   5     0
+2358        every   5     0
+2359        every   5     0
+2360        every   5     0
+2361        every   5     0
+2362        every   5     0
+2363        every   5     0
+2364        every   5     0
+2365        every   5     0
+2366        every   5     0
+2367        every   5     0
+2368        every   5     0
+2369        every   5     0
+2370        every   5     0
+2371        every   5     0
+2372        every   5     0
+2373        every   5     0
+2374        every   5     0
+2375        every   5     0
+2376        every   5     0
+2377        every   5     0
+2378        every   5     0
+2379        every   5     0
+2380        every   5     0
+2381        every   5     0
+2382        every   5     0
+2383        every   5     0
+2384        every   5     0
+2385        every   5     0
+2386        every   5     0
+2387        every   5     0
+2388        every   5     0
+2389        every   5     0
+2390        every   5     0
+2391        every   5     0
+2392        every   5     0
+2393        every   5     0
+2394        every   5     0
+2395        every   5     0
+2396        every   5     0
+2397        every   5     0
+2398        every   5     0
+2399        every   5     0
+2400        every   5     0
+2401        every   5     0
+2402        every   5     0
+2403        every   5     0
+2404        every   5     0
+2405        every   5     0
+2406        every   5     0
+2407        every   5     0
+2408        every   5     0
+2409        every   5     0
+2410        every   5     0
+2411        every   5     0
+2412        every   5     0
+2413        every   5     0
+2414        every   5     0
+2415        every   5     0
+2416        every   5     0
+2417        every   5     0
+2418        every   5     0
+2419        every   5     0
+2420        every   5     0
+2421        every   5     0
+2422        every   5     0
+2423        every   5     0
+2424        every   5     0
+2425        every   5     0
+2426        every   5     0
+2427        every   5     0
+2428        every   5     0
+2429        every   5     0
+2430        every   5     0
+2431        every   5     0
+2432        every   5     0
+2433        every   5     0
+2434        every   5     0
+2435        every   5     0
+2436        every   5     0
+2437        every   5     0
+2438        every   5     0
+2439        every   5     0
+2440        every   5     0
+2441        every   5     0
+2442        every   5     0
+2443        every   5     0
+2444        every   5     0
+2445        every   5     0
+2446        every   5     0
+2447        every   5     0
+2448        every   5     0
+2449        every   5     0
+2450        every   5     0
+2451        every   5     0
+2452        every   5     0
+2453        every   5     0
+2454        every   5     0
+2455        every   5     0
+2456        every   5     0
+2457        every   5     0
+2458        every   5     0
+2459        every   5     0
+2460        every   5     0
+2461        every   5     0
+2462        every   5     0
+2463        every   5     0
+2464        every   5     0
+2465        every   5     0
+2466        every   5     0
+2467        every   5     0
+2468        every   5     0
+2469        every   5     0
+2470        every   5     0
+2471        every   5     0
+2472        every   5     0
+2473        every   5     0
+2474        every   5     0
+2475        every   5     0
+2476        every   5     0
+2477        every   5     0
+2478        every   5     0
+2479        every   5     0
+2480        every   5     0
+2481        every   5     0
+2482        every   5     0
+2483        every   5     0
+2484        every   5     0
